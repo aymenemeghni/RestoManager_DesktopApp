@@ -7,3 +7,6 @@ In our user case we manage the orders by adding, updating, remoting and viewing 
 
 ### class diagram
 The class diagram is not complete, but most of the classes have been created.
+
+
+To view our diagram you can use startUML 
